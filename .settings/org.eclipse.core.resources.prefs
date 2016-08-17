@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src.builder.pattern/builderPattern/demo3/BedRoom.java=UTF-8
+encoding//src.builder.pattern/builderPattern/demo3/BedRoomBuilder.java=UTF-8
+encoding//src.builder.pattern/builderPattern/demo3/Director.java=UTF-8
+encoding//src.builder.pattern/builderPattern/demo3/README.txt=UTF-8
+encoding//src.builder.pattern/builderPattern/demo3/Room.java=UTF-8
+encoding//src.builder.pattern/builderPattern/demo3/RoomBuilder.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/Client.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/ConcreteCreator1.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/ConcreteCreator2.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/ConcreteProduct1.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/ConcreteProduct2.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/Creator.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo1/Product.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo2/Client.java=UTF-8
+encoding//src.factory.pattern/factoryMethod/demo2/Family.java=UTF-8
